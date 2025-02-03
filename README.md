@@ -1,1 +1,1 @@
-I would like to debug the timer once created
+fix bug with timer
